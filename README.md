@@ -10,6 +10,11 @@ Modern e-readers store a massive amount of behavioral telemetry - every page tur
 
 The objective of this project was to build a data pipeline that parses this raw SQLite file, decodes the proprietary binary formats, and serves the cleansed data through an interactive Streamlit dashboard.
 
+## Extra in this Github
+In creating this application, i also created tools that would run offline in the jupyter notebooks that would be able to connect to the .sqlite and pull that data automatically into my obsidian notes. If this is something that you use please feel free to use these files as well. 
+
+Beyond that, i wanted a way to push these Obsidian files quickly into my quarto website files as well, so i also created an automation that converted data from my Obsidian markdown files, where i was storing my book reviews and all, to be converted to the quarto markdown format automatically, please feel free to edit it for your own use as well. 
+
 ---
 
 ## Using the Dashboard (Step-by-Step)
