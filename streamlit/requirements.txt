@@ -4,3 +4,4 @@ matplotlib
 calmap
 plotly
 openpyxl
+setuptools
