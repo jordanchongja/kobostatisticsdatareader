@@ -1,0 +1,746 @@
+{
+    "sync_info": {
+        "generated_at": "2026-04-23T20:58:24.513179",
+        "source": "Kobo Rig Master"
+    },
+    "books": {
+        "file:///mnt/onboard/Ancona, Deborah/X-Teams, Revised and Updated - Deborah Ancona.kepub.epub": {
+            "metadata": {
+                "title": "X-Teams, Revised and Updated",
+                "author": "Deborah Ancona",
+                "narrative_word_count": 48931,
+                "percent_complete": 0
+            },
+            "quant_metrics": {
+                "total_minutes": 0.7,
+                "avg_wpm": 0.0,
+                "session_count": 1,
+                "scaling_factor": 0.439
+            },
+            "sessions": [
+                {
+                    "timestamp": "2025-07-22T12:47:45",
+                    "duration_minutes": 0.72,
+                    "pages_read": 2
+                }
+            ],
+            "highlights": []
+        },
+        "file:///mnt/onboard/Atkins, Ros/Art of Explanation, The - Ros Atkins.kepub.epub": {
+            "metadata": {
+                "title": "The Art of Explanation",
+                "author": "Ros Atkins",
+                "narrative_word_count": 65767,
+                "percent_complete": 0
+            },
+            "quant_metrics": {
+                "total_minutes": 0.2,
+                "avg_wpm": 0.0,
+                "session_count": 1,
+                "scaling_factor": 0.183
+            },
+            "sessions": [
+                {
+                    "timestamp": "2025-06-29T23:48:02",
+                    "duration_minutes": 0.18,
+                    "pages_read": 1
+                }
+            ],
+            "highlights": []
+        },
+        "file:///mnt/onboard/Balle, Solvej/On the Calculation of Volume (Book I) - Solvej Balle.kepub.epub": {
+            "metadata": {
+                "title": "On the Calculation of Volume (Book I)",
+                "author": "Solvej Balle",
+                "narrative_word_count": 51330,
+                "percent_complete": 3
+            },
+            "quant_metrics": {
+                "total_minutes": 0.7,
+                "avg_wpm": 2309.8,
+                "session_count": 1,
+                "scaling_factor": 0.667
+            },
+            "sessions": [
+                {
+                    "timestamp": "2025-07-24T02:39:44",
+                    "duration_minutes": 0.67,
+                    "pages_read": 1
+                }
+            ],
+            "highlights": []
+        },
+        "file:///mnt/onboard/Camus, Albert/Plague, The - Albert Camus.kepub.epub": {
+            "metadata": {
+                "title": "The Plague",
+                "author": "Albert Camus",
+                "narrative_word_count": 92431,
+                "percent_complete": 1
+            },
+            "quant_metrics": {
+                "total_minutes": 0.1,
+                "avg_wpm": 6162.1,
+                "session_count": 1,
+                "scaling_factor": 0.15
+            },
+            "sessions": [
+                {
+                    "timestamp": "2025-07-24T02:40:30",
+                    "duration_minutes": 0.15,
+                    "pages_read": 1
+                }
+            ],
+            "highlights": []
+        },
+        "file:///mnt/onboard/Follett, Ken/Pillars of the Earth, The - Ken Follett.kepub.epub": {
+            "metadata": {
+                "title": "The Pillars of the Earth",
+                "author": "Ken Follett",
+                "narrative_word_count": 412608,
+                "percent_complete": 11
+            },
+            "quant_metrics": {
+                "total_minutes": 8.1,
+                "avg_wpm": 5626.5,
+                "session_count": 2,
+                "scaling_factor": 2.161
+            },
+            "sessions": [
+                {
+                    "timestamp": "2025-06-30T00:04:59",
+                    "duration_minutes": 5.91,
+                    "pages_read": 23
+                },
+                {
+                    "timestamp": "2025-06-30T08:48:29",
+                    "duration_minutes": 2.16,
+                    "pages_read": 1
+                }
+            ],
+            "highlights": []
+        },
+        "file:///mnt/onboard/Freud, Sigmund/Interpreting Dreams - Sigmund Freud.kepub.epub": {
+            "metadata": {
+                "title": "Interpreting Dreams",
+                "author": "Sigmund Freud",
+                "narrative_word_count": 222998,
+                "percent_complete": 16
+            },
+            "quant_metrics": {
+                "total_minutes": 78.1,
+                "avg_wpm": 456.9,
+                "session_count": 5,
+                "scaling_factor": 0.982
+            },
+            "sessions": [
+                {
+                    "timestamp": "2025-06-30T08:55:37",
+                    "duration_minutes": 29.2,
+                    "pages_read": 61
+                },
+                {
+                    "timestamp": "2025-06-30T19:03:14",
+                    "duration_minutes": 19.82,
+                    "pages_read": 68
+                },
+                {
+                    "timestamp": "2025-07-01T08:39:39",
+                    "duration_minutes": 27.08,
+                    "pages_read": 60
+                },
+                {
+                    "timestamp": "2025-07-02T12:32:47",
+                    "duration_minutes": 1.0,
+                    "pages_read": 2
+                },
+                {
+                    "timestamp": "2025-07-24T02:39:08",
+                    "duration_minutes": 0.98,
+                    "pages_read": 1
+                }
+            ],
+            "highlights": [
+                {
+                    "text": "tertium comparationis",
+                    "date": "2025-06-30T01:08:20.708"
+                },
+                {
+                    "text": "Dream is defined as the mental activity of the sleeper in as much as he is asleep",
+                    "date": "2025-06-30T11:18:25.530"
+                },
+                {
+                    "text": "dreaming is an extension of waking life. Our dreams are always linked to the ideas8 that occupied consciousness shortly beforehand",
+                    "date": "2025-07-01T00:41:42.461"
+                },
+                {
+                    "text": "occur to one to reduce the whole phenomenon of dream to one of remembering",
+                    "date": "2025-07-01T00:54:57.231"
+                },
+                {
+                    "text": "The sensory stimuli that reach us during sleep may very well become sources of dream.\n\n",
+                    "date": "2025-07-01T00:57:35.235"
+                },
+                {
+                    "text": "suggest that the whole dream had in fact been based on it alone and found therein its truly essential logical point, its naturally indicated final objective",
+                    "date": "2025-07-01T01:02:38.189"
+                }
+            ]
+        },
+        "file:///mnt/onboard/Freud, Sigmund/Jokes And Their Relation To The Unconscious - Freud, Sigmund.kepub.epub": {
+            "metadata": {
+                "title": "Jokes And Their Relation To The Unconscious",
+                "author": "Freud, Sigmund",
+                "narrative_word_count": 90412,
+                "percent_complete": 0
+            },
+            "quant_metrics": {
+                "total_minutes": 1.5,
+                "avg_wpm": 0.0,
+                "session_count": 2,
+                "scaling_factor": 0.537
+            },
+            "sessions": [
+                {
+                    "timestamp": "2025-07-06T09:37:38",
+                    "duration_minutes": 0.63,
+                    "pages_read": 7
+                },
+                {
+                    "timestamp": "2025-07-07T18:33:47",
+                    "duration_minutes": 0.84,
+                    "pages_read": 3
+                }
+            ],
+            "highlights": []
+        },
+        "file:///mnt/onboard/Freud, Sigmund/On Murder, Mourning and Melancholia - Sigmund Freud.kepub.epub": {
+            "metadata": {
+                "title": "On Murder, Mourning and Melancholia",
+                "author": "Sigmund Freud",
+                "narrative_word_count": 91684,
+                "percent_complete": 0
+            },
+            "quant_metrics": {
+                "total_minutes": 5.4,
+                "avg_wpm": 0.0,
+                "session_count": 3,
+                "scaling_factor": 1.8
+            },
+            "sessions": [
+                {
+                    "timestamp": "2025-06-30T09:33:10",
+                    "duration_minutes": 1.8,
+                    "pages_read": 1
+                },
+                {
+                    "timestamp": "2025-06-30T18:42:39",
+                    "duration_minutes": 1.8,
+                    "pages_read": 1
+                },
+                {
+                    "timestamp": "2025-06-30T19:01:57",
+                    "duration_minutes": 1.8,
+                    "pages_read": 1
+                }
+            ],
+            "highlights": []
+        },
+        "file:///mnt/onboard/Jung, Carl/Undiscovered Self [1957, 2010], The - Carl Jung.kepub.epub": {
+            "metadata": {
+                "title": "The Undiscovered Self [1957, 2010]",
+                "author": "Carl Jung",
+                "narrative_word_count": 55147,
+                "percent_complete": 2
+            },
+            "quant_metrics": {
+                "total_minutes": 1.3,
+                "avg_wpm": 870.7,
+                "session_count": 1,
+                "scaling_factor": 0.287
+            },
+            "sessions": [
+                {
+                    "timestamp": "2025-07-24T02:43:59",
+                    "duration_minutes": 1.27,
+                    "pages_read": 3
+                }
+            ],
+            "highlights": []
+        },
+        "file:///mnt/onboard/Koe, Amanda Lee/Ministry of Moral Panic - Amanda Lee Koe.kepub.epub": {
+            "metadata": {
+                "title": "Ministry of Moral Panic",
+                "author": "Amanda Lee Koe",
+                "narrative_word_count": 52406,
+                "percent_complete": 98
+            },
+            "quant_metrics": {
+                "total_minutes": 197.8,
+                "avg_wpm": 259.6,
+                "session_count": 13,
+                "scaling_factor": 1.139
+            },
+            "sessions": [
+                {
+                    "timestamp": "2025-07-22T14:11:10",
+                    "duration_minutes": 5.37,
+                    "pages_read": 15
+                },
+                {
+                    "timestamp": "2025-07-22T18:00:58",
+                    "duration_minutes": 15.29,
+                    "pages_read": 39
+                },
+                {
+                    "timestamp": "2025-07-22T23:15:15",
+                    "duration_minutes": 25.94,
+                    "pages_read": 57
+                },
+                {
+                    "timestamp": "2025-07-22T23:57:34",
+                    "duration_minutes": 1.14,
+                    "pages_read": 1
+                },
+                {
+                    "timestamp": "2025-07-23T00:04:24",
+                    "duration_minutes": 1.39,
+                    "pages_read": 2
+                },
+                {
+                    "timestamp": "2025-07-23T00:10:26",
+                    "duration_minutes": 1.25,
+                    "pages_read": 2
+                },
+                {
+                    "timestamp": "2025-07-23T00:18:41",
+                    "duration_minutes": 30.17,
+                    "pages_read": 50
+                },
+                {
+                    "timestamp": "2025-07-23T00:51:28",
+                    "duration_minutes": 13.5,
+                    "pages_read": 18
+                },
+                {
+                    "timestamp": "2025-07-23T01:10:52",
+                    "duration_minutes": 22.1,
+                    "pages_read": 40
+                },
+                {
+                    "timestamp": "2025-07-23T13:03:44",
+                    "duration_minutes": 10.06,
+                    "pages_read": 19
+                },
+                {
+                    "timestamp": "2025-07-23T13:17:57",
+                    "duration_minutes": 67.55,
+                    "pages_read": 139
+                },
+                {
+                    "timestamp": "2025-07-24T00:37:01",
+                    "duration_minutes": 1.14,
+                    "pages_read": 1
+                },
+                {
+                    "timestamp": "2025-07-24T02:36:38",
+                    "duration_minutes": 2.91,
+                    "pages_read": 19
+                }
+            ],
+            "highlights": [
+                {
+                    "text": "The truth was probably that my mother had been so defined by the existence of my father that when he died, she couldn’t see anything else before her",
+                    "date": "2025-07-22T16:43:09.751"
+                },
+                {
+                    "text": "The proprietor had never thought of keeping a pet because he thought he’d make a bad owner, but he saw then that not all living things pin all their hopes and dreams on you. Life goes on and it was egotistical to imagine otherwise.",
+                    "date": "2025-07-23T05:37:29.463"
+                },
+                {
+                    "text": "Being able to be sad is a form of happiness too.",
+                    "date": "2025-07-23T05:43:05.441"
+                },
+                {
+                    "text": "she knew that if she ever tried to paint a face, it would look like Nelly, and she could not afford to see Nelly ever again",
+                    "date": "2025-07-23T06:08:17.915"
+                }
+            ]
+        },
+        "file:///mnt/onboard/Kuang, R. F_/Yellowface - R. F. Kuang.kepub.epub": {
+            "metadata": {
+                "title": "Yellowface",
+                "author": "R. F. Kuang",
+                "narrative_word_count": 93442,
+                "percent_complete": 0
+            },
+            "quant_metrics": {
+                "total_minutes": 0.1,
+                "avg_wpm": 0.0,
+                "session_count": 1,
+                "scaling_factor": 0.05
+            },
+            "sessions": [
+                {
+                    "timestamp": "2025-07-24T02:44:14",
+                    "duration_minutes": 0.05,
+                    "pages_read": 1
+                }
+            ],
+            "highlights": []
+        },
+        "file:///mnt/onboard/Lee, Min Jin/Pachinko - Min Jin Lee.kepub.epub": {
+            "metadata": {
+                "title": "Pachinko",
+                "author": "Min Jin Lee",
+                "narrative_word_count": 171536,
+                "percent_complete": 98
+            },
+            "quant_metrics": {
+                "total_minutes": 563.2,
+                "avg_wpm": 298.5,
+                "session_count": 38,
+                "scaling_factor": 1.02
+            },
+            "sessions": [
+                {
+                    "timestamp": "2025-07-09T23:39:30",
+                    "duration_minutes": 24.86,
+                    "pages_read": 49
+                },
+                {
+                    "timestamp": "2025-07-10T09:12:58",
+                    "duration_minutes": 27.48,
+                    "pages_read": 55
+                },
+                {
+                    "timestamp": "2025-07-10T09:46:40",
+                    "duration_minutes": 1.58,
+                    "pages_read": 2
+                },
+                {
+                    "timestamp": "2025-07-10T10:07:40",
+                    "duration_minutes": 7.19,
+                    "pages_read": 14
+                },
+                {
+                    "timestamp": "2025-07-10T16:24:19",
+                    "duration_minutes": 22.62,
+                    "pages_read": 49
+                },
+                {
+                    "timestamp": "2025-07-11T08:40:26",
+                    "duration_minutes": 30.97,
+                    "pages_read": 47
+                },
+                {
+                    "timestamp": "2025-07-11T11:32:56",
+                    "duration_minutes": 23.71,
+                    "pages_read": 48
+                },
+                {
+                    "timestamp": "2025-07-12T09:29:49",
+                    "duration_minutes": 34.73,
+                    "pages_read": 69
+                },
+                {
+                    "timestamp": "2025-07-12T10:15:16",
+                    "duration_minutes": 4.05,
+                    "pages_read": 8
+                },
+                {
+                    "timestamp": "2025-07-12T12:05:27",
+                    "duration_minutes": 26.85,
+                    "pages_read": 51
+                },
+                {
+                    "timestamp": "2025-07-14T08:40:00",
+                    "duration_minutes": 28.96,
+                    "pages_read": 56
+                },
+                {
+                    "timestamp": "2025-07-14T16:21:25",
+                    "duration_minutes": 22.09,
+                    "pages_read": 41
+                },
+                {
+                    "timestamp": "2025-07-14T18:46:10",
+                    "duration_minutes": 1.02,
+                    "pages_read": 1
+                },
+                {
+                    "timestamp": "2025-07-14T18:55:00",
+                    "duration_minutes": 18.04,
+                    "pages_read": 53
+                },
+                {
+                    "timestamp": "2025-07-15T19:10:44",
+                    "duration_minutes": 1.04,
+                    "pages_read": 2
+                },
+                {
+                    "timestamp": "2025-07-15T20:45:36",
+                    "duration_minutes": 21.09,
+                    "pages_read": 50
+                },
+                {
+                    "timestamp": "2025-07-16T08:41:32",
+                    "duration_minutes": 18.55,
+                    "pages_read": 32
+                },
+                {
+                    "timestamp": "2025-07-16T12:51:03",
+                    "duration_minutes": 1.67,
+                    "pages_read": 8
+                },
+                {
+                    "timestamp": "2025-07-17T14:01:36",
+                    "duration_minutes": 14.49,
+                    "pages_read": 32
+                },
+                {
+                    "timestamp": "2025-07-17T14:23:46",
+                    "duration_minutes": 2.6,
+                    "pages_read": 6
+                },
+                {
+                    "timestamp": "2025-07-18T00:59:43",
+                    "duration_minutes": 1.04,
+                    "pages_read": 2
+                },
+                {
+                    "timestamp": "2025-07-18T02:31:48",
+                    "duration_minutes": 3.2,
+                    "pages_read": 24
+                },
+                {
+                    "timestamp": "2025-07-18T10:04:20",
+                    "duration_minutes": 2.94,
+                    "pages_read": 11
+                },
+                {
+                    "timestamp": "2025-07-18T10:25:59",
+                    "duration_minutes": 9.98,
+                    "pages_read": 19
+                },
+                {
+                    "timestamp": "2025-07-20T11:11:28",
+                    "duration_minutes": 16.31,
+                    "pages_read": 38
+                },
+                {
+                    "timestamp": "2025-07-20T11:44:12",
+                    "duration_minutes": 1.04,
+                    "pages_read": 2
+                },
+                {
+                    "timestamp": "2025-07-20T20:48:50",
+                    "duration_minutes": 1.02,
+                    "pages_read": 1
+                },
+                {
+                    "timestamp": "2025-07-20T20:55:13",
+                    "duration_minutes": 1.82,
+                    "pages_read": 11
+                },
+                {
+                    "timestamp": "2025-07-20T22:55:48",
+                    "duration_minutes": 2.48,
+                    "pages_read": 27
+                },
+                {
+                    "timestamp": "2025-07-20T23:48:09",
+                    "duration_minutes": 28.28,
+                    "pages_read": 67
+                },
+                {
+                    "timestamp": "2025-07-21T08:58:45",
+                    "duration_minutes": 33.15,
+                    "pages_read": 73
+                },
+                {
+                    "timestamp": "2025-07-21T09:36:06",
+                    "duration_minutes": 1.02,
+                    "pages_read": 1
+                },
+                {
+                    "timestamp": "2025-07-21T10:26:13",
+                    "duration_minutes": 1.02,
+                    "pages_read": 1
+                },
+                {
+                    "timestamp": "2025-07-21T10:31:41",
+                    "duration_minutes": 12.42,
+                    "pages_read": 27
+                },
+                {
+                    "timestamp": "2025-07-21T14:13:03",
+                    "duration_minutes": 42.79,
+                    "pages_read": 116
+                },
+                {
+                    "timestamp": "2025-07-21T15:30:49",
+                    "duration_minutes": 4.73,
+                    "pages_read": 5
+                },
+                {
+                    "timestamp": "2025-07-21T15:50:24",
+                    "duration_minutes": 65.37,
+                    "pages_read": 185
+                },
+                {
+                    "timestamp": "2025-07-24T02:38:51",
+                    "duration_minutes": 1.02,
+                    "pages_read": 1
+                }
+            ],
+            "highlights": [
+                {
+                    "text": "intransigence",
+                    "date": "2025-07-11T03:42:42.228"
+                },
+                {
+                    "text": "Being a mother was what defined her more than any other thing—more than being a daughter, wife, divorced woman, girlfriend, or restaurant owner",
+                    "date": "2025-07-21T06:20:12.124"
+                },
+                {
+                    "text": "There were so many errors. If life allowed revisions, she would let them stay in their bath a little longer, read them one more story before bed, and fix them another plate of shrimp.",
+                    "date": "2025-07-21T06:22:10.822"
+                },
+                {
+                    "text": "Etsuko had failed in this important way—she had not taught her children to hope, to believe in the perhaps-absurd possibility that they might win. Pachinko was a foolish game, but life was not.",
+                    "date": "2025-07-21T06:26:23.972"
+                },
+                {
+                    "text": "Somewhere after being sorry, there had to be another day, and even after a conviction, there could be good in the judgment",
+                    "date": "2025-07-21T06:30:24.699"
+                }
+            ]
+        },
+        "file:///mnt/onboard/Mushtaq, Banu/Heart Lamp - Banu Mushtaq.kepub.epub": {
+            "metadata": {
+                "title": "Heart Lamp",
+                "author": "Banu Mushtaq",
+                "narrative_word_count": 72729,
+                "percent_complete": 46
+            },
+            "quant_metrics": {
+                "total_minutes": 153.1,
+                "avg_wpm": 218.6,
+                "session_count": 13,
+                "scaling_factor": 1.393
+            },
+            "sessions": [
+                {
+                    "timestamp": "2025-07-02T18:02:28",
+                    "duration_minutes": 27.69,
+                    "pages_read": 50
+                },
+                {
+                    "timestamp": "2025-07-04T11:04:02",
+                    "duration_minutes": 30.15,
+                    "pages_read": 48
+                },
+                {
+                    "timestamp": "2025-07-05T13:07:52",
+                    "duration_minutes": 1.44,
+                    "pages_read": 3
+                },
+                {
+                    "timestamp": "2025-07-05T20:28:20",
+                    "duration_minutes": 1.39,
+                    "pages_read": 1
+                },
+                {
+                    "timestamp": "2025-07-07T18:35:45",
+                    "duration_minutes": 16.78,
+                    "pages_read": 28
+                },
+                {
+                    "timestamp": "2025-07-07T22:23:43",
+                    "duration_minutes": 15.23,
+                    "pages_read": 18
+                },
+                {
+                    "timestamp": "2025-07-07T22:44:54",
+                    "duration_minutes": 9.82,
+                    "pages_read": 6
+                },
+                {
+                    "timestamp": "2025-07-09T09:18:49",
+                    "duration_minutes": 2.34,
+                    "pages_read": 2
+                },
+                {
+                    "timestamp": "2025-07-09T09:26:44",
+                    "duration_minutes": 28.57,
+                    "pages_read": 38
+                },
+                {
+                    "timestamp": "2025-07-21T16:54:18",
+                    "duration_minutes": 14.83,
+                    "pages_read": 21
+                },
+                {
+                    "timestamp": "2025-07-21T17:49:33",
+                    "duration_minutes": 1.76,
+                    "pages_read": 5
+                },
+                {
+                    "timestamp": "2025-07-21T23:01:44",
+                    "duration_minutes": 1.65,
+                    "pages_read": 3
+                },
+                {
+                    "timestamp": "2025-07-22T11:47:22",
+                    "duration_minutes": 1.39,
+                    "pages_read": 1
+                }
+            ],
+            "highlights": []
+        },
+        "file:///mnt/onboard/Nietzsche, Friedrich/Thus Spake Zarathustra - Friedrich Nietzsche.kepub.epub": {
+            "metadata": {
+                "title": "Thus Spake Zarathustra",
+                "author": "Friedrich Nietzsche",
+                "narrative_word_count": 113764,
+                "percent_complete": 3
+            },
+            "quant_metrics": {
+                "total_minutes": 2.5,
+                "avg_wpm": 1365.2,
+                "session_count": 1,
+                "scaling_factor": 2.5
+            },
+            "sessions": [
+                {
+                    "timestamp": "2025-07-24T02:41:05",
+                    "duration_minutes": 2.5,
+                    "pages_read": 1
+                }
+            ],
+            "highlights": []
+        },
+        "file:///mnt/onboard/Shetty, Jay/8 Rules of Love_ How to Find It, Keep It, and Let It Go - Jay Shetty.kepub.epub": {
+            "metadata": {
+                "title": "8 Rules of Love: How to Find It, Keep It, and Let It Go",
+                "author": "Jay Shetty",
+                "narrative_word_count": 95243,
+                "percent_complete": 0
+            },
+            "quant_metrics": {
+                "total_minutes": 0.1,
+                "avg_wpm": 0.0,
+                "session_count": 1,
+                "scaling_factor": 0.05
+            },
+            "sessions": [
+                {
+                    "timestamp": "2025-06-29T23:48:15",
+                    "duration_minutes": 0.05,
+                    "pages_read": 1
+                }
+            ],
+            "highlights": []
+        }
+    }
+}

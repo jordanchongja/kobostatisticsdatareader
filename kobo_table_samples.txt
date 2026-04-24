@@ -1,0 +1,657 @@
+--- KOBO DATABASE SAMPLES ---
+
+=== Table: Achievement (Total Rows: 27) ===
+--- Row 1 ---
+{
+  "Acknowledged": "false",
+  "CompleteDescription": "You've connected to your social network.",
+  "DateCreated": "2011-07-04T16:38:51.282",
+  "Difficulty": 1,
+  "EventLogDescription": "Hey thanks! You've connected to Facebook. Now share your favourite books, characters and quotes with your friends.",
+  "Hidden": "false",
+  "Id": "00000000-0000-0000-0000-000000001002",
+  "ImageId": "badge_trilogy_bw_0003_facebook",
+  "IncompleteDescription": "Connect Facebook to your Reading Life to unlock the Facebook award.",
+  "Name": "Facebook",
+  "Ordinal": 51000,
+  "PercentComplete": "false",
+  "Presented": "false",
+  "Synchronized": "false",
+  "UserId": null,
+  "Checksum": "fb8a6ecf9e043bc53d92a21eca3bcd05",
+  "FacebookImageId": "badge_ipad_0003_facebook.png"
+}
+--- Row 2 ---
+{
+  "Acknowledged": "false",
+  "CompleteDescription": "Well, you're quite the social butterfly! You've shared on Facebook 10 times.",
+  "DateCreated": "2011-07-04T16:38:51.282",
+  "Difficulty": 3,
+  "EventLogDescription": "You're a total social butterfly - that's 10 shares to your friends on Facebook.",
+  "Hidden": "false",
+  "Id": "00000000-0000-0000-0000-00000000100D",
+  "ImageId": "badge_trilogy_bw_0015_papillon",
+  "IncompleteDescription": "10 shares to Facebook will earn you the social butterfly award!",
+  "Name": "Papillon",
+  "Ordinal": 53000,
+  "PercentComplete": 0,
+  "Presented": "false",
+  "Synchronized": "false",
+  "UserId": null,
+  "Checksum": "5dce0b2aceefb7e64d625466ba739736",
+  "FacebookImageId": "badge_ipad_0015_papillon.png"
+}
+
+
+=== Table: Activity (Total Rows: 20) ===
+--- Row 1 ---
+{
+  "Id": null,
+  "Enabled": "true",
+  "Type": "Library",
+  "Action": 1,
+  "Date": "2025-06-29 22:49:37",
+  "Data": "\u0000\u0000\u0000\u0003\u0000\u0000\u0000,\u0000L\u0000I\u0000B\u0000R\u0000A\u0000R\u0000Y\u0000_\u0000A\u0000C\u0000T\u0000I\u0000V\u0000I\u0000T\u0000Y\u0000_\u0000R\u0000E\u0000S\u0000E\u0000T\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u00000\u0000D\u0000I\u0000S\u0000C\u0000O\u0000V\u0000E\u0000R\u0000Y\u0000_\u0000V\u0000O\u0000L\u0000U\u0000M\u0000E\u0000_\u0000I\u0000D\u0000_\u0000L\u0000I\u0000S\u0000T\u0000\u0000\u0000\u000b\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000H\u0000f\u00001\u0000f\u00007\u00001\u0000d\u0000c\u00001\u0000-\u00000\u00001\u00004\u00000\u0000-\u00004\u00007\u0000e\u0000a\u0000-\u0000a\u0000d\u00002\u00006\u0000-\u00001\u00001\u00003\u00006\u0000a\u00003\u0000c\u0000e\u0000a\u00007\u0000f\u00008\u0000\u0000\u0000*\u0000D\u0000I\u0000S\u0000C\u0000O\u0000V\u0000E\u0000R\u0000Y\u0000_\u0000D\u0000E\u0000S\u0000C\u0000R\u0000I\u0000P\u0000T\u0000I\u0000O\u0000N\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0001"
+}
+--- Row 2 ---
+{
+  "Id": "f1f71dc1-0140-47ea-ad26-1136a3cea7f8",
+  "Enabled": "true",
+  "Type": "RecentBook",
+  "Action": 2,
+  "Date": "2025-06-29 22:49:37",
+  "Data": ""
+}
+
+
+=== Table: AnalyticsEvents (Total Rows: 183) ===
+--- Row 1 ---
+{
+  "Id": "c068a806-4e83-457b-b36f-b5c19fb97378",
+  "Type": "AppSettings",
+  "Timestamp": "2025-07-22 16:51:01+00:00",
+  "Attributes": "{\"origin\": \"More\",\"viewType\": \"Settings\"}",
+  "Metrics": "{}",
+  "TestGroups": "{}",
+  "ClientApplicationVersion": "4.42.23296",
+  "Mandatory": "false"
+}
+--- Row 2 ---
+{
+  "Id": "d2934c0d-34d1-4702-821d-b4ceb1a3895b",
+  "Type": "Home",
+  "Timestamp": "2025-07-22 16:51:14+00:00",
+  "Attributes": "{\"origin\": \"More\",\"viewType\": \"Home\"}",
+  "Metrics": "{}",
+  "TestGroups": "{}",
+  "ClientApplicationVersion": "4.42.23296",
+  "Mandatory": "false"
+}
+
+
+=== Table: Bookmark (Total Rows: 26) ===
+--- Row 1 ---
+{
+  "BookmarkID": "a705d218-a03d-4c0e-b002-0858c659a8fd",
+  "VolumeID": "file:///mnt/onboard/Freud, Sigmund/Interpreting Dreams - Sigmund Freud.kepub.epub",
+  "ContentID": "/mnt/onboard/Freud, Sigmund/Interpreting Dreams - Sigmund Freud.kepub.epub!!OEBPS/html/frontm_split_004.html",
+  "StartContainerPath": "span#kobo\\.30\\.7",
+  "StartContainerChildIndex": -99,
+  "StartOffset": 0,
+  "EndContainerPath": "span#kobo\\.30\\.7",
+  "EndContainerChildIndex": -99,
+  "EndOffset": 21,
+  "Text": "tertium comparationis",
+  "Annotation": "",
+  "ExtraAnnotationData": null,
+  "DateCreated": "2025-06-30T01:08:20.708",
+  "ChapterProgress": 0.2535211268,
+  "Hidden": "false",
+  "Version": NaN,
+  "DateModified": "2025-06-30T01:08:20Z",
+  "Creator": NaN,
+  "UUID": NaN,
+  "UserID": "269d9513-9709-4deb-9bf6-180f12f0d21f",
+  "SyncTime": NaN,
+  "Published": "false",
+  "ContextString": NaN,
+  "Type": "highlight",
+  "Color": 0
+}
+--- Row 2 ---
+{
+  "BookmarkID": "c8ab134d-573b-438a-b443-a0fd2144ce4a",
+  "VolumeID": "file:///mnt/onboard/Freud, Sigmund/Interpreting Dreams - Sigmund Freud.kepub.epub",
+  "ContentID": "/mnt/onboard/Freud, Sigmund/Interpreting Dreams - Sigmund Freud.kepub.epub!!OEBPS/html/part01.html",
+  "StartContainerPath": "span#kobo.2.1",
+  "StartContainerChildIndex": 0,
+  "StartOffset": 0,
+  "EndContainerPath": "span#kobo.2.5",
+  "EndContainerChildIndex": 0,
+  "EndOffset": 22,
+  "Text": null,
+  "Annotation": null,
+  "ExtraAnnotationData": "\u0000\u0000\u0000\u0013\u0000\u0000\u0000\u0010\u0000S\u0000t\u0000a\u0000r\u0000t\u0000K\u0000e\u0000y\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000S\u0000c\u0000r\u0000e\u0000e\u0000n\u0000D\u0000i\u0000m\u0000e\u0000n\u0000s\u0000i\u0000o\u0000n\u0000s\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0004\u0000\u0000\u0006\u0000\u0000\u0000$\u0000R\u0000e\u0000a\u0000d\u0000i\u0000n\u0000g\u0000R\u0000i\u0000g\u0000h\u0000t\u0000M\u0000a\u0000r\u0000g\u0000i\u0000n\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000\"\u0000R\u0000e\u0000a\u0000d\u0000i\u0000n\u0000g\u0000L\u0000i\u0000n\u0000e\u0000H\u0000e\u0000i\u0000g\u0000h\u0000t\u0000\u0000\u0000\u0006\u0000?\ud925\ude59\u0000\u0000\u0000\"\u0000R\u0000e\u0000a\u0000d\u0000i\u0000n\u0000g\u0000L\u0000e\u0000f\u0000t\u0000M\u0000a\u0000r\u0000g\u0000i\u0000n\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000\u001e\u0000R\u0000e\u0000a\u0000d\u0000i\u0000n\u0000g\u0000F\u0000o\u0000n\u0000t\u0000S\u0000i\u0000z\u0000e\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000$\u0000\u0000\u0000\"\u0000R\u0000e\u0000a\u0000d\u0000i\u0000n\u0000g\u0000F\u0000o\u0000n\u0000t\u0000F\u0000a\u0000m\u0000i\u0000l\u0000y\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000*\u0000A\u0000t\u0000k\u0000i\u0000n\u0000s\u0000o\u0000n\u0000 \u0000H\u0000y\u0000p\u0000e\u0000r\u0000l\u0000e\u0000g\u0000i\u0000b\u0000l\u0000e\u0000\u0000\u0000 \u0000R\u0000e\u0000a\u0000d\u0000i\u0000n\u0000g\u0000A\u0000l\u0000i\u0000g\u0000n\u0000m\u0000e\u0000n\u0000t\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0012\u0000R\u0000a\u0000n\u0000g\u0000e\u0000R\u0000e\u0000c\u0000t\u0000\u0000\u0000\u0013\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0004+\u0000\u0000\u0004W\u0000\u0000\u0000\u001a\u0000P\u0000e\u0000r\u0000c\u0000e\u0000n\u0000t\u0000O\u0000n\u0000P\u0000a\u0000g\u0000e\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000d\u0000\u0000\u0000\u0014\u0000M\u0000a\u0000r\u0000k\u0000u\u0000p\u0000R\u0000e\u0000c\u0000t\u0000\u0000\u0000\u0013\u0000\u0000\u0000\u0000\u0000\u0000\u0002n\u0000\u0000\u0003\u0000\u0000\u0004\u0000\u0000\u0000\u0014\u0000H\u0000e\u0000a\u0000d\u0000e\u0000r\u0000T\u0000y\u0000p\u0000e\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000\u0014\u0000F\u0000o\u0000o\u0000t\u0000e\u0000r\u0000T\u0000y\u0000p\u0000e\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000$\u0000F\u0000i\u0000n\u0000g\u0000e\u0000r\u0000p\u0000r\u0000i\u0000n\u0000t\u0000V\u0000e\u0000r\u0000s\u0000i\u0000o\u0000n\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0016\u0000F\u0000i\u0000n\u0000g\u0000e\u0000r\u0000p\u0000r\u0000i\u0000n\u0000t\u0000\u0000\u0000\u007f\u0000\u0000\u0000\u0000\rQVector<int>\u0000\u0000\u0000\u0000\u000b\u0000\u0000\u00003\u0000\u0000\u0000-\u0000\u0000\u00008\u0000\u0000\u00002\u0000\u0000\u00009\u0000\u0000\u00007\u0000\u0000\u00003\u0000\u0000\u00004\u0000\u0000\u00002\u0000\u0000\u00005\u0000\u0000\u0000+\u0000\u0000\u0000\f\u0000E\u0000n\u0000d\u0000K\u0000e\u0000y\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u000e\u0000E\u0000T\u0000a\u0000g\u0000S\u0000v\u0000g\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u000e\u0000E\u0000T\u0000a\u0000g\u0000J\u0000p\u0000g\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0010\u0000D\u0000a\u0000r\u0000k\u0000M\u0000o\u0000d\u0000e\u0000\u0000\u0000\u0001\u0000\u0000",
+  "DateCreated": "2025-06-30T11:16:24.068",
+  "ChapterProgress": 0.058823529400000005,
+  "Hidden": "false",
+  "Version": NaN,
+  "DateModified": "2025-06-30T11:16:24Z",
+  "Creator": NaN,
+  "UUID": NaN,
+  "UserID": "269d9513-9709-4deb-9bf6-180f12f0d21f",
+  "SyncTime": NaN,
+  "Published": "false",
+  "ContextString": NaN,
+  "Type": "markup",
+  "Color": 0
+}
+
+
+=== Table: content (Total Rows: 17121) ===
+--- Row 1 ---
+{
+  "ContentID": "c6185409-3d69-4194-94c4-e6a0d8b85a66",
+  "ContentType": 6,
+  "MimeType": "application/x-kobo-epub+zip",
+  "BookID": null,
+  "BookTitle": null,
+  "ImageId": "db4fd53a-19c6-45c9-aa9b-5f95b830840f",
+  "Title": "A Mother's Love",
+  "Attribution": "Danielle Steel",
+  "Description": "<p><strong>A devoted mother outrunning a troubled childhood and adapting to an empty nest is tested in ways she never expected in this suspenseful novel by #1 <em>New York Times</em> bestselling author Danielle Steel.</strong></p><p>On the occasion of her daughter Valerie\u2019s wedding and her upcoming fiftieth birthday, bestselling author Halley Holbrook finds herself reflecting. Raising twins Valerie and Olivia is her proudest accomplishment. Halley has been able to give them the loving and sa...",
+  "DateCreated": "2025-06-24T00:00:00.0000000Z",
+  "ShortCoverKey": NaN,
+  "adobe_location": null,
+  "Publisher": "Random House Publishing Group",
+  "IsEncrypted": "false",
+  "DateLastRead": null,
+  "FirstTimeReading": "true",
+  "ChapterIDBookmarked": null,
+  "ParagraphBookmarked": 0,
+  "BookmarkWordOffset": 0,
+  "NumShortcovers": 0.0,
+  "VolumeIndex": 0,
+  "___NumPages": -1,
+  "ReadStatus": 0,
+  "___SyncTime": "2025-06-29T14:49:29Z",
+  "___UserID": "",
+  "PublicationId": NaN,
+  "___FileOffset": NaN,
+  "___FileSize": 0.0,
+  "___PercentRead": 0,
+  "___ExpirationStatus": 0.0,
+  "FavouritesIndex": -1,
+  "Accessibility": -1,
+  "ContentURL": NaN,
+  "Language": "en",
+  "BookshelfTags": NaN,
+  "IsDownloaded": "false",
+  "FeedbackType": 0,
+  "AverageRating": 2.0,
+  "Depth": 0,
+  "PageProgressDirection": "default",
+  "InWishlist": "FALSE",
+  "ISBN": 9780593498743.0,
+  "WishlistedDate": null,
+  "FeedbackTypeSynced": 0,
+  "IsSocialEnabled": "true",
+  "EpubType": 13,
+  "Monetization": 2,
+  "ExternalId": null,
+  "Series": null,
+  "SeriesNumber": NaN,
+  "Subtitle": "A Novel",
+  "WordCount": -1,
+  "Fallback": NaN,
+  "RestOfBookEstimate": 0.0,
+  "CurrentChapterEstimate": 0.0,
+  "CurrentChapterProgress": 0.0,
+  "PocketStatus": 0,
+  "UnsyncedPocketChanges": "",
+  "ImageUrl": NaN,
+  "DateAdded": NaN,
+  "WorkId": "fcbc9f94-dcee-39f3-abca-1a028fe8ce6f",
+  "Properties": NaN,
+  "RenditionSpread": null,
+  "RatingCount": 1,
+  "ReviewsSyncDate": NaN,
+  "MediaOverlay": NaN,
+  "MediaOverlayType": NaN,
+  "RedirectPreviewUrl": "true",
+  "PreviewFileSize": 1863717.0,
+  "EntitlementId": "",
+  "CrossRevisionId": "fcbc9f94-dcee-39f3-abca-1a028fe8ce6f",
+  "DownloadUrl": "false",
+  "ReadStateSynced": "true",
+  "TimesStartedReading": 0.0,
+  "TimeSpentReading": 0.0,
+  "LastTimeStartedReading": NaN,
+  "LastTimeFinishedReading": NaN,
+  "ApplicableSubscriptions": null,
+  "ExternalIds": "od_11199245",
+  "PurchaseRevisionId": NaN,
+  "SeriesID": null,
+  "SeriesNumberFloat": 0.0,
+  "AdobeLoanExpiration": NaN,
+  "HideFromHomePage": "false",
+  "IsInternetArchive": "false",
+  "titleKana": NaN,
+  "subtitleKana": NaN,
+  "seriesKana": NaN,
+  "attributionKana": NaN,
+  "publisherKana": NaN,
+  "IsPurchaseable": "true",
+  "IsSupported": "true",
+  "AnnotationsSyncToken": null,
+  "DateModified": NaN,
+  "StorePages": 0,
+  "StoreWordCount": 0,
+  "StoreTimeToReadLowerEstimate": 0,
+  "StoreTimeToReadUpperEstimate": 0,
+  "Duration": 0,
+  "IsAbridged": "false",
+  "SyncConflictType": 0
+}
+--- Row 2 ---
+{
+  "ContentID": "66a1fd7c-da79-4bd2-a016-29b2844b753c",
+  "ContentType": 6,
+  "MimeType": "application/x-kobo-epub+zip",
+  "BookID": null,
+  "BookTitle": null,
+  "ImageId": "6e6c22c9-5f29-4bfa-9ea0-dde850e0fa43",
+  "Title": "Good Girls Don't Cry",
+  "Attribution": "D.K. Hood",
+  "Description": "<p><b>Madison hesitates before hitching her pink tulle prom dress and running as fast as she can into the wilderness. The ripped edge of her skirt snags on a tree root and she falls to the forest floor. As she catches her breath, she hears the unmistakable sound of heavy boots closing in on her. He knows where she is\u2026</b></p>  <br>  <p>When news of a missing limousine reaches <b>Sheriff Jenna Alton</b> and her deputy, <b>David Kane</b>, they fear for the lives of the ten teenagers who were ...",
+  "DateCreated": "2025-06-24T00:00:00.0000000Z",
+  "ShortCoverKey": NaN,
+  "adobe_location": null,
+  "Publisher": "Bookouture",
+  "IsEncrypted": "false",
+  "DateLastRead": null,
+  "FirstTimeReading": "true",
+  "ChapterIDBookmarked": null,
+  "ParagraphBookmarked": 0,
+  "BookmarkWordOffset": 0,
+  "NumShortcovers": 0.0,
+  "VolumeIndex": 1,
+  "___NumPages": -1,
+  "ReadStatus": 0,
+  "___SyncTime": "2025-06-29T14:49:29Z",
+  "___UserID": "",
+  "PublicationId": NaN,
+  "___FileOffset": NaN,
+  "___FileSize": 0.0,
+  "___PercentRead": 0,
+  "___ExpirationStatus": 0.0,
+  "FavouritesIndex": -1,
+  "Accessibility": -1,
+  "ContentURL": NaN,
+  "Language": "en",
+  "BookshelfTags": NaN,
+  "IsDownloaded": "false",
+  "FeedbackType": 0,
+  "AverageRating": 4.75,
+  "Depth": 0,
+  "PageProgressDirection": "default",
+  "InWishlist": "FALSE",
+  "ISBN": 9781836187288.0,
+  "WishlistedDate": null,
+  "FeedbackTypeSynced": 0,
+  "IsSocialEnabled": "true",
+  "EpubType": 13,
+  "Monetization": 2,
+  "ExternalId": null,
+  "Series": "Detectives Kane and Alton",
+  "SeriesNumber": 26.0,
+  "Subtitle": "A completely gripping and totally addictive serial killer thriller",
+  "WordCount": -1,
+  "Fallback": NaN,
+  "RestOfBookEstimate": 0.0,
+  "CurrentChapterEstimate": 0.0,
+  "CurrentChapterProgress": 0.0,
+  "PocketStatus": 0,
+  "UnsyncedPocketChanges": "",
+  "ImageUrl": NaN,
+  "DateAdded": NaN,
+  "WorkId": "9be0794b-0413-3f21-aa9d-ef1db227368d",
+  "Properties": NaN,
+  "RenditionSpread": null,
+  "RatingCount": 8,
+  "ReviewsSyncDate": NaN,
+  "MediaOverlay": NaN,
+  "MediaOverlayType": NaN,
+  "RedirectPreviewUrl": "true",
+  "PreviewFileSize": 502523.0,
+  "EntitlementId": "",
+  "CrossRevisionId": "9be0794b-0413-3f21-aa9d-ef1db227368d",
+  "DownloadUrl": "false",
+  "ReadStateSynced": "true",
+  "TimesStartedReading": 0.0,
+  "TimeSpentReading": 0.0,
+  "LastTimeStartedReading": NaN,
+  "LastTimeFinishedReading": NaN,
+  "ApplicableSubscriptions": "be9e9ac0-5823-4047-8281-069986c626b9,416bfce4-e4ae-4730-8314-5857dece58a6",
+  "ExternalIds": null,
+  "PurchaseRevisionId": NaN,
+  "SeriesID": null,
+  "SeriesNumberFloat": 26.0,
+  "AdobeLoanExpiration": NaN,
+  "HideFromHomePage": "false",
+  "IsInternetArchive": "false",
+  "titleKana": NaN,
+  "subtitleKana": NaN,
+  "seriesKana": NaN,
+  "attributionKana": NaN,
+  "publisherKana": NaN,
+  "IsPurchaseable": "true",
+  "IsSupported": "true",
+  "AnnotationsSyncToken": null,
+  "DateModified": NaN,
+  "StorePages": 0,
+  "StoreWordCount": 0,
+  "StoreTimeToReadLowerEstimate": 0,
+  "StoreTimeToReadUpperEstimate": 0,
+  "Duration": 0,
+  "IsAbridged": "false",
+  "SyncConflictType": 0
+}
+
+
+=== Table: content_keys (Total Rows: 78) ===
+--- Row 1 ---
+{
+  "volumeId": "f1f71dc1-0140-47ea-ad26-1136a3cea7f8",
+  "elementId": "OPS/001-coverpage.html",
+  "elementKey": "UxkAy3VYfWgLttvRZCcqYA=="
+}
+--- Row 2 ---
+{
+  "volumeId": "f1f71dc1-0140-47ea-ad26-1136a3cea7f8",
+  "elementId": "OPS/002-copyright.html",
+  "elementKey": "8MWPLP24o/csfzrrvW4IKw=="
+}
+
+
+=== Table: content_settings (Total Rows: 3) ===
+--- Row 1 ---
+{
+  "ContentID": "file:///mnt/onboard/Follett, Ken/Pillars of the Earth, The - Ken Follett.kepub.epub",
+  "ContentType": 6,
+  "DateModified": "2025-06-29T16:05:58.438",
+  "ReadingFontFamily": "default",
+  "ReadingFontSize": 33,
+  "ReadingAlignment": NaN,
+  "ReadingLineHeight": 1.35,
+  "ReadingLeftMargin": 5,
+  "ReadingRightMargin": 5,
+  "ReadingPublisherMode": NaN,
+  "ActivityFacebookShare": "TRUE",
+  "RecentBookSearches": null,
+  "AuthorNotesShown": "false",
+  "LastAuthorNotesSyncTime": NaN,
+  "ZoomFactor": 1,
+  "BTBFooterSection": NaN,
+  "SelectedDictionary": NaN,
+  "StillReading": "false",
+  "SeriesShown": "false"
+}
+--- Row 2 ---
+{
+  "ContentID": "file:///mnt/onboard/Freud, Sigmund/Interpreting Dreams - Sigmund Freud.kepub.epub",
+  "ContentType": 6,
+  "DateModified": "2025-06-30T11:13:01.589",
+  "ReadingFontFamily": "Atkinson Hyperlegible",
+  "ReadingFontSize": 36,
+  "ReadingAlignment": NaN,
+  "ReadingLineHeight": 1.1,
+  "ReadingLeftMargin": 12,
+  "ReadingRightMargin": 12,
+  "ReadingPublisherMode": NaN,
+  "ActivityFacebookShare": "TRUE",
+  "RecentBookSearches": "tertium comparationis",
+  "AuthorNotesShown": "false",
+  "LastAuthorNotesSyncTime": NaN,
+  "ZoomFactor": 1,
+  "BTBFooterSection": NaN,
+  "SelectedDictionary": NaN,
+  "StillReading": "false",
+  "SeriesShown": "false"
+}
+
+
+=== Table: DbVersion (Total Rows: 1) ===
+--- Row 1 ---
+{
+  "version": 176
+}
+
+
+=== Table: Event (Total Rows: 88) ===
+--- Row 1 ---
+{
+  "EventType": 36,
+  "FirstOccurrence": null,
+  "LastOccurrence": "2025-06-29T14:49:33.000",
+  "EventCount": 1,
+  "ContentID": "",
+  "ExtraData": "\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u001e\u0000e\u0000v\u0000e\u0000n\u0000t\u0000T\u0000i\u0000m\u0000e\u0000s\u0000t\u0000a\u0000m\u0000p\u0000s\u0000\u0000\u0000\t\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0003\u0000haR}",
+  "Checksum": "0cd7b5574a494b39423c89184bd2a072"
+}
+--- Row 2 ---
+{
+  "EventType": 46,
+  "FirstOccurrence": "2025-06-29T15:48:02.000",
+  "LastOccurrence": "2025-06-29T15:48:02.000",
+  "EventCount": 0,
+  "ContentID": "file:///mnt/onboard/Atkins, Ros/Art of Explanation, The - Ros Atkins.kepub.epub",
+  "ExtraData": "\u0000\u0000\u0000\u0007\u0000\u0000\u0000\u0010\u0000V\u0000i\u0000e\u0000w\u0000T\u0000y\u0000p\u0000e\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0016\u0000R\u0000e\u0000a\u0000d\u0000i\u0000n\u0000g\u0000V\u0000i\u0000e\u0000w\u0000\u0000\u0000\u001e\u0000S\u0000t\u0000a\u0000r\u0000t\u0000P\u0000e\u0000r\u0000c\u0000e\u0000n\u0000t\u0000a\u0000g\u0000e\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000,\u0000P\u0000a\u0000g\u0000e\u0000s\u0000T\u0000u\u0000r\u0000n\u0000e\u0000d\u0000T\u0000h\u0000i\u0000s\u0000S\u0000e\u0000s\u0000s\u0000i\u0000o\u0000n\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0016\u0000O\u0000r\u0000i\u0000e\u0000n\u0000t\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0010\u0000P\u0000o\u0000r\u0000t\u0000r\u0000a\u0000i\u0000t\u0000\u0000\u0000\u0006\u0000G\u0000A\u00004\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0016\u0000o\u0000r\u0000i\u0000e\u0000n\u0000t\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0010\u0000P\u0000o\u0000r\u0000t\u0000r\u0000a\u0000i\u0000t\u0000\u0000\u0000\u0012\u0000b\u0000o\u0000o\u0000k\u0000_\u0000t\u0000y\u0000p\u0000e\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\f\u0000N\u0000o\u0000t\u0000S\u0000e\u0000t\u0000\u0000\u0000\u000e\u0000b\u0000o\u0000o\u0000k\u0000_\u0000i\u0000d\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0000f\u0000i\u0000l\u0000e\u0000:\u0000/\u0000/\u0000/\u0000m\u0000n\u0000t\u0000/\u0000o\u0000n\u0000b\u0000o\u0000a\u0000r\u0000d\u0000/\u0000A\u0000t\u0000k\u0000i\u0000n\u0000s\u0000,\u0000 \u0000R\u0000o\u0000s\u0000/\u0000A\u0000r\u0000t\u0000 \u0000o\u0000f\u0000 \u0000E\u0000x\u0000p\u0000l\u0000a\u0000n\u0000a\u0000t\u0000i\u0000o\u0000n\u0000,\u0000 \u0000T\u0000h\u0000e\u0000 \u0000-\u0000 \u0000R\u0000o\u0000s\u0000 \u0000A\u0000t\u0000k\u0000i\u0000n\u0000s\u0000.\u0000k\u0000e\u0000p\u0000u\u0000b\u0000.\u0000e\u0000p\u0000u\u0000b\u0000\u0000\u0000\u0016\u0000b\u0000o\u0000o\u0000k\u0000_\u0000f\u0000o\u0000r\u0000m\u0000a\u0000t\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0012\u0000K\u0000O\u0000B\u0000O\u0000_\u0000E\u0000P\u0000U\u0000B\u0000\u0000\u0000\u0016\u0000C\u0000o\u0000n\u0000t\u0000e\u0000n\u0000t\u0000T\u0000y\u0000p\u0000e\u0000\u0000\u0000\f\u0000\u0000\u0000\u0000\u001bapplication/x-kobo-epub+zip\u0000\u0000\u0000 \u0000B\u0000u\u0000t\u0000t\u0000o\u0000n\u0000P\u0000r\u0000e\u0000s\u0000s\u0000C\u0000o\u0000u\u0000n\u0000t\u0000\u0000\u0000\u0000\u0001",
+  "Checksum": "befaed50ea01b26a610c67027ac27d90"
+}
+
+
+=== Table: GDriveItem (Total Rows: 1) ===
+--- Row 1 ---
+{
+  "Id": "1al1uoZCtWeO_U48JVyIzUFauG5aD83bG",
+  "Json": "{\n    \"contentHints\": {\n        \"thumbnail\": {\n            \"image\": \"\"\n        }\n    },\n    \"createdTime\": \"2025-07-06T01:29:52Z\",\n    \"explicitlyTrashed\": false,\n    \"id\": \"1al1uoZCtWeO_U48JVyIzUFauG5aD83bG\",\n    \"imageMediaMetadata\": {\n        \"exposureBias\": 0,\n        \"exposureTime\": 0,\n        \"flashUsed\": false,\n        \"focalLength\": 0,\n        \"height\": \"0\",\n        \"isoSpeed\": \"0\",\n        \"location\": {\n            \"altitude\": 0,\n            \"latitude\": 0,\n            \"longitude\": 0\n        },\n        \"maxApertureValue\": 0,\n        \"rotation\": \"0\",\n        \"subjectDistance\": \"0\",\n        \"width\": \"0\"\n    },\n    \"isAppAuthorized\": false,\n    \"lastModifyingUser\": {\n        \"me\": false\n    },\n    \"md5Checksum\": \"04e8639fe72ea9b9e52e5ff2a9c1612e\",\n    \"mimeType\": \"application/pdf\",\n    \"modifiedTime\": \"2025-07-06T01:29:52Z\",\n    \"name\": \"How to add books to your eReader using Google Drive.pdf\",\n    \"ownedByMe\": false,\n    \"owners\": [\n    ],\n    \"parents\": [\n        \"1rP5kqlmLXh-TCmqfKcWSD08yPdpkb5EI\"\n    ],\n    \"permissions\": [\n    ],\n    \"quotaBytesUsed\": \"0\",\n    \"shared\": false,\n    \"sharingUser\": {\n        \"me\": false\n    },\n    \"size\": \"164105\",\n    \"spaces\": [\n    ],\n    \"starred\": false,\n    \"trashed\": false,\n    \"version\": \"2\",\n    \"videoMediaMetadata\": {\n        \"durationMillis\": \"0\",\n        \"height\": \"0\",\n        \"width\": \"0\"\n    },\n    \"viewedByMe\": false,\n    \"viewersCanCopyContent\": false\n}\n",
+  "Path": "/How to add books to your eReader using Google Drive.pdf"
+}
+
+
+=== Table: KoboPlusAssetGroup (Total Rows: 1) ===
+--- Row 1 ---
+{
+  "Id": "77c91545-d80f-46be-86d9-357079015fb2",
+  "AssetGroup": "EPD-KoboPlus-ReadOnly-NeverSubscribed",
+  "Timestamp": "2021-10-01 00:00:00+00:00",
+  "Name": "EPD-KoboPlus-ReadOnly-NeverSubscribed",
+  "Url": "https://www.kobo.com/{region}/{language}/plus/plans",
+  "Etag": "W/NjM4NzY2MTExNDIwMDAwMDAwLTg3MTMy",
+  "TimestampTo": "NaT",
+  "Shown": "true"
+}
+
+
+=== Table: KoboPlusAssets (Total Rows: 294) ===
+--- Row 1 ---
+{
+  "AssetGroupId": "77c91545-d80f-46be-86d9-357079015fb2",
+  "Key": "Faq_BulletText-1",
+  "Language": "ca",
+  "Type": "Text",
+  "Value": "Busca els t\u00edtols amb l'etiqueta Kobo Plus al nostre cat\u00e0leg."
+}
+--- Row 2 ---
+{
+  "AssetGroupId": "77c91545-d80f-46be-86d9-357079015fb2",
+  "Key": "Faq_BulletText-1",
+  "Language": "cs",
+  "Type": "Text",
+  "Value": "V na\u0161em katalogu najdete tituly ozna\u010den\u00e9 Kobo Plus."
+}
+
+
+=== Table: Rules (Total Rows: 33) ===
+--- Row 1 ---
+{
+  "AchievementId": "00000000-0000-0000-0000-000000001002",
+  "EventProperty": "EventCount",
+  "EventType": "27",
+  "GoalValue": 1,
+  "Id": 49,
+  "Operation": 1,
+  "ParentRuleId": NaN,
+  "ConjunctionType": 0,
+  "IsConjunction": 0,
+  "Checksum": "256e75484f5aad07cb9c9e84b21d0040"
+}
+--- Row 2 ---
+{
+  "AchievementId": "00000000-0000-0000-0000-000000001008",
+  "EventProperty": "EventCount",
+  "EventType": "6",
+  "GoalValue": 1,
+  "Id": 50,
+  "Operation": 1,
+  "ParentRuleId": NaN,
+  "ConjunctionType": 0,
+  "IsConjunction": 0,
+  "Checksum": "b770d31f96b6c145e1902fce4aef671e"
+}
+
+
+=== Table: SubscriptionProducts (Total Rows: 4) ===
+--- Row 1 ---
+{
+  "CrossRevisionId": "be9e9ac0-5823-4047-8281-069986c626b9",
+  "Id": "a532a22f-fac5-45a8-a7eb-2dcc596eaadc",
+  "Name": "Kobo Plus Read",
+  "IsPreOrder": "false",
+  "Tiers": "\u0000\u0000\u0000\u0001\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\f\u0000P\u0000h\u0000a\u0000s\u0000e\u0000s\u0000\u0000\u0000\t\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000\f\u0000P\u0000r\u0000i\u0000c\u0000e\u0000s\u0000\u0000\u0000\t\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0012\u0000V\u0000a\u0000l\u0000i\u0000d\u0000F\u0000r\u0000o\u0000m\u0000\u0000\u0000\n\u0000\u0000\u0000\u00008\u00002\u00000\u00002\u00005\u0000-\u00000\u00002\u0000-\u00002\u00005\u0000T\u00001\u00000\u0000:\u00000\u00000\u0000:\u00000\u00000\u0000.\u00000\u00000\u00000\u00000\u00000\u00000\u00000\u0000Z\u0000\u0000\u0000\n\u0000T\u0000a\u0000x\u0000I\u0000n\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0000\n\u0000P\u0000r\u0000i\u0000c\u0000e\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000G\u0000e\u0000o\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0004\u0000S\u0000G\u0000\u0000\u0000\u0010\u0000C\u0000u\u0000r\u0000r\u0000e\u0000n\u0000c\u0000y\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0006\u0000S\u0000G\u0000D\u0000\u0000\u0000\u0012\u0000P\u0000h\u0000a\u0000s\u0000e\u0000T\u0000y\u0000p\u0000e\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\n\u0000T\u0000r\u0000i\u0000a\u0000l\u0000\u0000\u0000\n\u0000O\u0000r\u0000d\u0000e\u0000r\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000D\u0000u\u0000r\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000U\u0000n\u0000i\u0000t\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\b\u0000D\u0000a\u0000y\u0000s\u0000\u0000\u0000\f\u0000N\u0000u\u0000m\u0000b\u0000e\u0000r\u0000\u0000\u0000\u0006\u0000@,\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000(\u0000B\u0000i\u0000l\u0000l\u0000i\u0000n\u0000g\u0000S\u0000p\u0000e\u0000c\u0000i\u0000f\u0000i\u0000c\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u001c\u0000R\u0000e\u0000b\u0000i\u0000l\u0000l\u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u001a\u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000U\u0000n\u0000i\u0000t\u0000s\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000U\u0000n\u0000i\u0000t\u0000T\u0000y\u0000p\u0000e\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\b\u0000D\u0000a\u0000y\u0000s\u0000\u0000\u00000\u0000I\u0000n\u0000i\u0000t\u0000i\u0000a\u0000l\u0000B\u0000i\u0000l\u0000l\u0000i\u0000n\u0000g\u0000D\u0000a\u0000t\u0000e\u0000O\u0000f\u0000f\u0000s\u0000e\u0000t\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u001a\u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000U\u0000n\u0000i\u0000t\u0000s\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000U\u0000n\u0000i\u0000t\u0000T\u0000y\u0000p\u0000e\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\b\u0000D\u0000a\u0000y\u0000s\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000\f\u0000P\u0000r\u0000i\u0000c\u0000e\u0000s\u0000\u0000\u0000\t\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0012\u0000V\u0000a\u0000l\u0000i\u0000d\u0000F\u0000r\u0000o\u0000m\u0000\u0000\u0000\n\u0000\u0000\u0000\u00008\u00002\u00000\u00002\u00005\u0000-\u00000\u00002\u0000-\u00002\u00005\u0000T\u00001\u00000\u0000:\u00000\u00000\u0000:\u00000\u00000\u0000.\u00000\u00000\u00000\u00000\u00000\u00000\u00000\u0000Z\u0000\u0000\u0000\n\u0000T\u0000a\u0000x\u0000I\u0000n\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0000\n\u0000P\u0000r\u0000i\u0000c\u0000e\u0000\u0000\u0000\u0006\u0000@#G\u0014{\u0000\u0000\u0000\u0006\u0000G\u0000e\u0000o\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0004\u0000S\u0000G\u0000\u0000\u0000\u0010\u0000C\u0000u\u0000r\u0000r\u0000e\u0000n\u0000c\u0000y\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0006\u0000S\u0000G\u0000D\u0000\u0000\u0000\u0012\u0000P\u0000h\u0000a\u0000s\u0000e\u0000T\u0000y\u0000p\u0000e\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\f\u0000A\u0000c\u0000t\u0000i\u0000v\u0000e\u0000\u0000\u0000\n\u0000O\u0000r\u0000d\u0000e\u0000r\u0000\u0000\u0000\u0006\u0000@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000D\u0000u\u0000r\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000U\u0000n\u0000i\u0000t\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\b\u0000D\u0000a\u0000y\u0000s\u0000\u0000\u0000\f\u0000N\u0000u\u0000m\u0000b\u0000e\u0000r\u0000\u0000\u0000\u0006\u0000@>\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000(\u0000B\u0000i\u0000l\u0000l\u0000i\u0000n\u0000g\u0000S\u0000p\u0000e\u0000c\u0000i\u0000f\u0000i\u0000c\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u001c\u0000R\u0000e\u0000b\u0000i\u0000l\u0000l\u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u001a\u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000U\u0000n\u0000i\u0000t\u0000s\u0000\u0000\u0000\u0006\u0000@>\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000U\u0000n\u0000i\u0000t\u0000T\u0000y\u0000p\u0000e\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\b\u0000D\u0000a\u0000y\u0000s\u0000\u0000\u00000\u0000I\u0000n\u0000i\u0000t\u0000i\u0000a\u0000l\u0000B\u0000i\u0000l\u0000l\u0000i\u0000n\u0000g\u0000D\u0000a\u0000t\u0000e\u0000O\u0000f\u0000f\u0000s\u0000e\u0000t\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u001a\u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000U\u0000n\u0000i\u0000t\u0000s\u0000\u0000\u0000\u0006\u0000@>\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000U\u0000n\u0000i\u0000t\u0000T\u0000y\u0000p\u0000e\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\b\u0000D\u0000a\u0000y\u0000s\u0000\u0000\u0000\u0004\u0000I\u0000d\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000H\u00001\u00009\u0000f\u0000f\u00000\u00006\u00008\u00003\u0000-\u00003\u00007\u00004\u0000b\u0000-\u00004\u0000b\u0000b\u00009\u0000-\u00008\u00000\u00009\u00007\u0000-\u00007\u00001\u0000e\u0000e\u00002\u0000d\u0000d\u00007\u00001\u00002\u00002\u00008\u0000\u0000\u0000\u0010\u0000H\u0000e\u0000a\u0000d\u0000l\u0000i\u0000n\u0000e\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0016\u0000D\u0000e\u0000s\u0000c\u0000r\u0000i\u0000p\u0000t\u0000i\u0000o\u0000n\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0000",
+  "ActivationDate": "2025-02-25T10:00:00.0000000Z",
+  "DeactivationDate": NaN
+}
+--- Row 2 ---
+{
+  "CrossRevisionId": "c382502f-4df7-4925-a69b-f85628f6814f",
+  "Id": "b705254f-4b90-4664-bea6-d091291827b9",
+  "Name": "Kobo Plus Prorated Upgrade",
+  "IsPreOrder": "false",
+  "Tiers": "\u0000\u0000\u0000\u0001\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\f\u0000P\u0000h\u0000a\u0000s\u0000e\u0000s\u0000\u0000\u0000\t\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000\f\u0000P\u0000r\u0000i\u0000c\u0000e\u0000s\u0000\u0000\u0000\t\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0012\u0000V\u0000a\u0000l\u0000i\u0000d\u0000F\u0000r\u0000o\u0000m\u0000\u0000\u0000\n\u0000\u0000\u0000\u00008\u00002\u00000\u00002\u00005\u0000-\u00000\u00002\u0000-\u00002\u00005\u0000T\u00001\u00000\u0000:\u00000\u00000\u0000:\u00000\u00000\u0000.\u00000\u00000\u00000\u00000\u00000\u00000\u00000\u0000Z\u0000\u0000\u0000\n\u0000T\u0000a\u0000x\u0000I\u0000n\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0000\n\u0000P\u0000r\u0000i\u0000c\u0000e\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000G\u0000e\u0000o\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0004\u0000S\u0000G\u0000\u0000\u0000\u0010\u0000C\u0000u\u0000r\u0000r\u0000e\u0000n\u0000c\u0000y\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0006\u0000S\u0000G\u0000D\u0000\u0000\u0000\u0012\u0000P\u0000h\u0000a\u0000s\u0000e\u0000T\u0000y\u0000p\u0000e\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\n\u0000T\u0000r\u0000i\u0000a\u0000l\u0000\u0000\u0000\n\u0000O\u0000r\u0000d\u0000e\u0000r\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000D\u0000u\u0000r\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000U\u0000n\u0000i\u0000t\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\b\u0000D\u0000a\u0000y\u0000s\u0000\u0000\u0000\f\u0000N\u0000u\u0000m\u0000b\u0000e\u0000r\u0000\u0000\u0000\u0006\u0000@,\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000(\u0000B\u0000i\u0000l\u0000l\u0000i\u0000n\u0000g\u0000S\u0000p\u0000e\u0000c\u0000i\u0000f\u0000i\u0000c\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u001c\u0000R\u0000e\u0000b\u0000i\u0000l\u0000l\u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u001a\u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000U\u0000n\u0000i\u0000t\u0000s\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000U\u0000n\u0000i\u0000t\u0000T\u0000y\u0000p\u0000e\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\b\u0000D\u0000a\u0000y\u0000s\u0000\u0000\u00000\u0000I\u0000n\u0000i\u0000t\u0000i\u0000a\u0000l\u0000B\u0000i\u0000l\u0000l\u0000i\u0000n\u0000g\u0000D\u0000a\u0000t\u0000e\u0000O\u0000f\u0000f\u0000s\u0000e\u0000t\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u001a\u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000U\u0000n\u0000i\u0000t\u0000s\u0000\u0000\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000U\u0000n\u0000i\u0000t\u0000T\u0000y\u0000p\u0000e\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\b\u0000D\u0000a\u0000y\u0000s\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000\f\u0000P\u0000r\u0000i\u0000c\u0000e\u0000s\u0000\u0000\u0000\t\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000\u0012\u0000V\u0000a\u0000l\u0000i\u0000d\u0000F\u0000r\u0000o\u0000m\u0000\u0000\u0000\n\u0000\u0000\u0000\u00008\u00002\u00000\u00002\u00005\u0000-\u00000\u00002\u0000-\u00002\u00005\u0000T\u00001\u00000\u0000:\u00000\u00000\u0000:\u00000\u00000\u0000.\u00000\u00000\u00000\u00000\u00000\u00000\u00000\u0000Z\u0000\u0000\u0000\n\u0000T\u0000a\u0000x\u0000I\u0000n\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0000\n\u0000P\u0000r\u0000i\u0000c\u0000e\u0000\u0000\u0000\u0006\u0000@)G\u0014{\u0000\u0000\u0000\u0006\u0000G\u0000e\u0000o\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0004\u0000S\u0000G\u0000\u0000\u0000\u0010\u0000C\u0000u\u0000r\u0000r\u0000e\u0000n\u0000c\u0000y\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0006\u0000S\u0000G\u0000D\u0000\u0000\u0000\u0012\u0000P\u0000h\u0000a\u0000s\u0000e\u0000T\u0000y\u0000p\u0000e\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\f\u0000A\u0000c\u0000t\u0000i\u0000v\u0000e\u0000\u0000\u0000\n\u0000O\u0000r\u0000d\u0000e\u0000r\u0000\u0000\u0000\u0006\u0000@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000D\u0000u\u0000r\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\b\u0000U\u0000n\u0000i\u0000t\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\b\u0000D\u0000a\u0000y\u0000s\u0000\u0000\u0000\f\u0000N\u0000u\u0000m\u0000b\u0000e\u0000r\u0000\u0000\u0000\u0006\u0000@>\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000(\u0000B\u0000i\u0000l\u0000l\u0000i\u0000n\u0000g\u0000S\u0000p\u0000e\u0000c\u0000i\u0000f\u0000i\u0000c\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u001c\u0000R\u0000e\u0000b\u0000i\u0000l\u0000l\u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u001a\u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000U\u0000n\u0000i\u0000t\u0000s\u0000\u0000\u0000\u0006\u0000@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000U\u0000n\u0000i\u0000t\u0000T\u0000y\u0000p\u0000e\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\b\u0000D\u0000a\u0000y\u0000s\u0000\u0000\u00000\u0000I\u0000n\u0000i\u0000t\u0000i\u0000a\u0000l\u0000B\u0000i\u0000l\u0000l\u0000i\u0000n\u0000g\u0000D\u0000a\u0000t\u0000e\u0000O\u0000f\u0000f\u0000s\u0000e\u0000t\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u001a\u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000U\u0000n\u0000i\u0000t\u0000s\u0000\u0000\u0000\u0006\u0000@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000I\u0000n\u0000t\u0000e\u0000r\u0000v\u0000a\u0000l\u0000U\u0000n\u0000i\u0000t\u0000T\u0000y\u0000p\u0000e\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\b\u0000D\u0000a\u0000y\u0000s\u0000\u0000\u0000\u0004\u0000I\u0000d\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000H\u00003\u00003\u00006\u00007\u00001\u00008\u0000e\u00003\u0000-\u00002\u00009\u00000\u0000e\u0000-\u00004\u00009\u00003\u00004\u0000-\u0000b\u0000a\u0000d\u00000\u0000-\u0000c\u00009\u00009\u00005\u00004\u00000\u00006\u00005\u00001\u00006\u0000e\u00006\u0000\u0000\u0000\u0010\u0000H\u0000e\u0000a\u0000d\u0000l\u0000i\u0000n\u0000e\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0016\u0000D\u0000e\u0000s\u0000c\u0000r\u0000i\u0000p\u0000t\u0000i\u0000o\u0000n\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0000",
+  "ActivationDate": "2025-02-25T10:00:00.0000000Z",
+  "DeactivationDate": NaN
+}
+
+
+=== Table: Tab (Total Rows: 1) ===
+--- Row 1 ---
+{
+  "tabId": "SomeFakeWishlistTabID",
+  "tabType": 2,
+  "browseTabType": 0,
+  "displayTitle": NaN,
+  "parentTabId": NaN,
+  "isDefault": "false",
+  "maxSize": 0,
+  "totalResults": 1,
+  "updateFrequencyMin": 0,
+  "imageID": NaN,
+  "isLeaf": "false",
+  "hasFeaturedLists": "false",
+  "etag": "W/\"MjAyNS0wNi0yOVQxNToxNjoyOC4yNzg4OTE2Wl8x\"",
+  "language": NaN
+}
+
+
+=== Table: user (Total Rows: 1) ===
+--- Row 1 ---
+{
+  "UserID": "269d9513-9709-4deb-9bf6-180f12f0d21f",
+  "UserKey": "a711962d-35dd-4e78-8efb-b881fded6747",
+  "UserDisplayName": "jorputtt@gmail.com",
+  "UserEmail": "jorputtt@gmail.com",
+  "___DeviceID": "75ff73590a879e2ade03ec6ec1e234b079cd02bcbee81092bda001b4b17acd8b",
+  "FacebookAuthToken": NaN,
+  "HasMadePurchase": "false",
+  "IsOneStoreAccount": "true",
+  "IsChildAccount": "false",
+  "RefreshToken": "1s6mlHMXGxaapB5jjWBlOs7+D0H1WdWM2gUhVPrDMUGV2pD5FP4WzmoFObqIQPt38kYeKDoJMZg1oDrUCaaCcJEWsweDt/MD2mxBv4YyjFzLUe2KNggRm+eTykH+8081ZOfJ5kp7Agz+ah8oBPbWHRBj1XPj7s+h0bl2QbeRV35HrOEucFjIdOdMVq3iSq/fdehvQPdj638kmGb9pSFWhrB6AZxiT16mtOrJLBYxGym/dH0oB8PMK9oW+EA7qca5is8fEGtW3wzA418F6TZfAKikRcBi8UNdgp+MXt3oLDTukGNr/GCPcbcStOTbFlsEai68JsnlPJC7sqohc/0Xef41r9MrfzqieR/m90rksQO1aPPbYFi5w0epTJmICWV3qeq8hQ3Ob2WdvMRjDMJDTUgLSxscJBC3ZPiJY0gj7mIYs1eKJmKg6ECp/8dP22dBcDUSyH8aiQnhyLauiPvLAd8H8iYZqwJCtBK/hy1GLSQ9amjMrvmWQuqi4PBcbMxcWB4Vsc3zXj/i2rJAWf2BqLqJ9Ckig1V0aPBE6Gm31zUt2Rr6CmyxmjoPxLZlrJAi5X56iXnuSHhZuls64M3lUJ01DZJQ=",
+  "AuthToken": "1IGhFxotsnl4fqjPaSK0fKtTu+HbkV5mycrrD//L2/eMtuE352tX93zClau8HHSEPRqJ3LrtH5gy4AI3tlHtN9RNupC7cXfiERWzemtf+kWfvX6S2yv3i9V6sWZBrqXyO+aIVjLTedPbk09nsXRPGahsGyEvYxp6TYCWu/1opXyrWe9xzvyUhioK8SZZX5+x2w8Ansbc1KBXrA7ujX2loFGGEZYMlZ5OO1COI2vRfcLsvyToPC/pLBhMUvfsoxSzAmBCKpyR6dNKLBRrCZXBnJzZlZAtEFrHEaLG4rPDPIEAdX+tYD2V/BRCyDu1/6ff/ogsTDGhPCqHVyNHvr6UZRE7MScn4FUn35gM1xg8nC9//nUy9EzMMe4UWsb6SX+ihI8vflVFFu6RpWVEftx3n2OpXC1u6AeF/n5KYNfsP5G787ggL4Kuqs52PsOrWdp6sH2qbP4bbDJn8KUBq1bdJVM4T8lD2qvykzxVXUeBNBdxt266cZdC3lwGryPrlqbETLWQLjgpSV0+48vt7hqFQGTSyly0piUIHE9zXM5SaXhmYXskr40r2y6FBXc7jsIp9EjmSDc6Yx4qJBeYImStuNLUHNHI=",
+  "AuthType": "Bearer",
+  "Loyalty": "\u0000\u0000\u0000\u0000",
+  "IsLibraryMigrated": "true",
+  "SyncContinuationToken": "eyJ0eXAiOjEsInZlciI6bnVsbCwicHR5cCI6IlN5bmNUb2tlbiJ9.eyJJbnRlcm5hbFN5bmNUb2tlbiI6ImV5SjBlWEFpT2pFc0luWmxjaUk2SW5ZeUlpd2ljSFI1Y0NJNklsTjVibU5VYjJ0bGJpSjkuZXlKVGRXSnpZM0pwY0hScGIyNUZiblJwZEd4bGJXVnVkSE1pT25zaVNYTkpibWwwYVdGc0lqcHVkV3hzTENKSFpXNWxjbUYwYVc5dVZHbHRaU0k2Ym5Wc2JDd2lWR2x0WlhOMFlXMXdJam9pTVRrd01DMHdNUzB3TVZRd01Eb3dNRG93TUZvaUxDSkRhR1ZqYTFOMWJTSTZiblZzYkN3aVNXUWlPaUl3TURBd01EQXdNQzB3TURBd0xUQXdNREF0TURBd01DMHdNREF3TURBd01EQXdNREFpZlN3aVJuVjBkWEpsVTNWaWMyTnlhWEIwYVc5dVJXNTBhWFJzWlcxbGJuUnpJanB1ZFd4c0xDSkZiblJwZEd4bGJXVnVkSE1pT25zaVNYTkpibWwwYVdGc0lqcHVkV3hzTENKSFpXNWxjbUYwYVc5dVZHbHRaU0k2Ym5Wc2JDd2lWR2x0WlhOMFlXMXdJam9pTWpBeU5TMHdOaTB5T1ZReE5EbzBPVG96TmxvaUxDSkRhR1ZqYTFOMWJTSTZJbnRjSWxOcmFYQkRjbVZoZEdWa1hDSTZabUZzYzJVc1hDSkRjbVZoZEdWa1EyOTFiblJjSWpvd0xGd2lRM0psWVhSbFpGd2lPbHRkTEZ3aVUydHBjRTF2WkdsbWFXVmtYQ0k2Wm1Gc2MyVXNYQ0pOYjJScFptbGxaRndpT2x0ZGZTSXNJa2xrSWpvaU1EQXdNREF3TURBdE1EQXdNQzB3TURBd0xUQXdNREF0TURBd01EQXdNREF3TURBd0luMHNJa1JsYkdWMFpXUkZiblJwZEd4bGJXVnVkSE1pT25zaVNYTkpibWwwYVdGc0lqcHVkV3hzTENKSFpXNWxjbUYwYVc5dVZHbHRaU0k2Ym5Wc2JDd2lWR2x0WlhOMFlXMXdJam9pTWpBeU5TMHdOaTB5T1ZReE5EbzBPVG96TmxvaUxDSkRhR1ZqYTFOMWJTSTZiblZzYkN3aVNXUWlPaUl3TURBd01EQXdNQzB3TURBd0xUQXdNREF0TURBd01DMHdNREF3TURBd01EQXdNREFpZlN3aVVtVmhaR2x1WjFOMFlYUmxjeUk2ZXlKSmMwbHVhWFJwWVd3aU9tNTFiR3dzSWtkbGJtVnlZWFJwYjI1VWFXMWxJanB1ZFd4c0xDSlVhVzFsYzNSaGJYQWlPaUl5TURJMUxUQTJMVEk1VkRFME9qUTVPak0yV2lJc0lrTm9aV05yVTNWdElqcHVkV3hzTENKSlpDSTZJakF3TURBd01EQXdMVEF3TURBdE1EQXdNQzB3TURBd0xUQXdNREF3TURBd01EQXdNQ0o5TENKVVlXZHpJanA3SWtselNXNXBkR2xoYkNJNmJuVnNiQ3dpUjJWdVpYSmhkR2x2YmxScGJXVWlPbTUxYkd3c0lsUnBiV1Z6ZEdGdGNDSTZJakl3TWpVdE1EWXRNamxVTVRRNk5EazZNelphSWl3aVEyaGxZMnRUZFcwaU9tNTFiR3dzSWtsa0lqb2lNREF3TURBd01EQXRNREF3TUMwd01EQXdMVEF3TURBdE1EQXdNREF3TURBd01EQXdJbjBzSWtSbGJHVjBaV1JVWVdkeklqcDdJa2x6U1c1cGRHbGhiQ0k2Ym5Wc2JDd2lSMlZ1WlhKaGRHbHZibFJwYldVaU9tNTFiR3dzSWxScGJXVnpkR0Z0Y0NJNklqRTVNREF0TURFdE1ERlVNREE2TURBNk1EQmFJaXdpUTJobFkydFRkVzBpT201MWJHd3NJa2xrSWpvaU1EQXdNREF3TURBdE1EQXdNQzB3TURBd0xUQXdNREF0TURBd01EQXdNREF3TURBd0luMHNJbEJ5YjJSMVkzUk5aWFJoWkdGMFlTSTZleUpKYzBsdWFYUnBZV3dpT201MWJHd3NJa2RsYm1WeVlYUnBiMjVVYVcxbElqcHVkV3hzTENKVWFXMWxjM1JoYlhBaU9pSXlNREkxTFRBMkxUSTVWREUwT2pRNU9qTTJXaUlzSWtOb1pXTnJVM1Z0SWpwdWRXeHNMQ0pKWkNJNklqQXdNREF3TURBd0xUQXdNREF0TURBd01DMHdNREF3TFRBd01EQXdNREF3TURBd01DSjlmUSIsIklzQ29udGludWF0aW9uVG9rZW4iOmZhbHNlfQ",
+  "Subscription": 0,
+  "LibrarySyncType": NaN,
+  "LibrarySyncTime": NaN,
+  "SyncTokenAppVersion": "4.42.23296",
+  "Storefront": "SG",
+  "NewUserPromoCurrency": NaN,
+  "NewUserPromoValue": 0,
+  "KoboAccessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjA4NkI4NjkzNUQyQ0FFMDM0MzJGQTFGOTY5MDJGQzIyQzVFNkU4NzkiLCJ4NXQiOiJDR3VHazEwc3JnTkRMNkg1YVFMOElzWG02SGsiLCJ0eXAiOiJKV1QifQ.eyJuYmYiOjE3NTMyMDI3NzEsImV4cCI6MTc1MzIwNjM3MSwiaXNzIjoiaHR0cHM6Ly9hdXRoLmtvYm9ib29rcy5jb20iLCJhdWQiOlsiaHR0cHM6Ly9hdXRoLmtvYm9ib29rcy5jb20vcmVzb3VyY2VzIiwicHJvZmlsZWF1dGgiLCJwdWJsaWNfYXBpIl0sImNsaWVudF9pZCI6Im5pY2tlbCIsInN1YiI6IjgxZDgzNGU5LWFiMjMtNDZjZS1jMjE4LTA4ZGRiNThkNjA1ZCIsImF1dGhfdGltZSI6MTc1MTU2MDE3MiwiaWRwIjoiS29iby5Qcm9maWxlLkF1dGgiLCJrb2JvX3VzZXJfaWQiOiIyNjlkOTUxMy05NzA5LTRkZWItOWJmNi0xODBmMTJmMGQyMWYiLCJzY29wZSI6WyJvcGVuaWQiLCJwcm9maWxlIiwia29ib19wcm9maWxlIiwicHJvZmlsZWF1dGhfY2xpZW50X2F1dGhkX3JlZmVycmFsIiwicHVibGljX2FwaV9hdXRoZW50aWNhdGVkIiwicHVibGljX2FwaV9hbm9ueW1vdXMiLCJvZmZsaW5lX2FjY2VzcyJdfQ.CSTN0h5RAQA9xB3j2r1J8YBtsNS7rB-eh1vG-ZTHTCa4lhpVljamXOIWEdUwbDQIyUMEzYyiH-hPvhMeZBIBbLzxWkNQewYelt0sbHZbnXFm90CYWesoGEDWielThommFRN1eP4tjO5sLLOfqgijv0jaJxHl9qT6hB7POTITYID6XOEEMjOF_zUTcj4G01SaF-32vtit3EfESZvtCtvo_bdq2fvqHSbV94nvJq1tS_fM2D9FP7tzdNjiBGWVILCDKE39H21NTVvofhYgvyIoDTMBaNvZjTj_QoU6Ng5Vrt1oxh0V6cPJgp1xfsn_XS0JKAx-tEUUmABqmi6cN2p66Q",
+  "KoboAccessTokenExpiry": "2025-07-22T17:46:11Z",
+  "AnnotationsSyncToken": NaN,
+  "PrivacyPermissions": "\u0000\u0000\u00001\u0000\u0000\u00002\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000a\u0000d\u0000f\u0000o\u0000r\u0000m\u0000\u0000\u00008\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000b\u0000u\u0000i\u0000l\u0000d\u0000e\u0000r\u0000i\u0000o\u0000\u0000\u0000.\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000e\u0000B\u0000a\u0000y\u0000\u0000\u00006\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000t\u0000a\u0000l\u0000k\u0000a\u0000b\u0000l\u0000e\u0000\u0000\u0000F\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000g\u0000o\u0000o\u0000g\u0000l\u0000e\u0000T\u0000a\u0000g\u0000M\u0000a\u0000n\u0000a\u0000g\u0000e\u0000r\u0000\u0000\u00000\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000x\u0000a\u0000n\u0000d\u0000r\u0000\u0000\u00002\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000a\u0000d\u0000j\u0000u\u0000s\u0000t\u0000\u0000\u00006\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000l\u0000i\u0000n\u0000k\u0000e\u0000d\u0000I\u0000n\u0000\u0000\u0000,\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000V\u0000W\u0000O\u0000\u0000\u0000.\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000d\u0000r\u0000o\u0000p\u0000\u0000\u0000.\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000b\u0000i\u0000n\u0000g\u0000\u0000\u0000@\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000g\u0000o\u0000o\u0000g\u0000l\u0000e\u0000a\u0000d\u0000w\u0000o\u0000r\u0000d\u0000s\u0000\u0000\u00002\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000b\u0000u\u0000t\u0000t\u0000o\u0000n\u0000\u0000\u0000J\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000g\u0000o\u0000o\u0000g\u0000l\u0000e\u0000P\u0000l\u0000u\u0000s\u0000P\u0000l\u0000a\u0000t\u0000f\u0000o\u0000r\u0000m\u0000\u0000\u0000J\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000r\u0000a\u0000k\u0000u\u0000t\u0000e\u0000n\u0000A\u0000d\u0000v\u0000e\u0000r\u0000t\u0000i\u0000s\u0000i\u0000n\u0000g\u0000\u0000\u0000<\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000c\u0000r\u0000a\u0000s\u0000h\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000\u0000\u0000>\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000l\u0000a\u0000u\u0000n\u0000c\u0000h\u0000D\u0000a\u0000r\u0000k\u0000l\u0000y\u0000\u0000\u0000\"\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000c\u0000a\u0000t\u0000a\u0000l\u0000o\u0000g\u0000\u0000\u0000B\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000p\u0000l\u0000a\u0000t\u0000f\u0000o\u0000r\u0000m\u0000.\u0000c\u0000r\u0000a\u0000s\u0000h\u0000r\u0000e\u0000p\u0000o\u0000r\u0000t\u0000i\u0000n\u0000g\u0000\u0000\u0000D\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000g\u0000o\u0000o\u0000g\u0000l\u0000e\u0000A\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000\u0000\u00008\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000q\u0000u\u0000a\u0000n\u0000t\u0000c\u0000a\u0000s\u0000t\u0000\u0000\u0000@\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000t\u0000w\u0000i\u0000t\u0000t\u0000e\u0000r\u0000B\u0000u\u0000t\u0000t\u0000o\u0000n\u0000\u0000\u0000F\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000r\u0000a\u0000k\u0000u\u0000t\u0000e\u0000n\u0000L\u0000i\u0000n\u0000k\u0000s\u0000h\u0000a\u0000r\u0000e\u0000\u0000\u0000\u001c\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000u\u0000s\u0000e\u0000r\u0000\u0000\u00002\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000t\u0000i\u0000k\u0000T\u0000o\u0000k\u0000\u0000\u00004\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000a\u0000l\u0000g\u0000o\u0000l\u0000i\u0000a\u0000\u0000\u0000*\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000p\u0000l\u0000a\u0000t\u0000f\u0000o\u0000r\u0000m\u0000.\u0000A\u0000B\u0000\u0000\u00008\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000r\u0000e\u0000s\u0000p\u0000o\u0000n\u0000s\u0000y\u0000s\u0000\u0000\u0000D\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000f\u0000a\u0000c\u0000e\u0000b\u0000o\u0000o\u0000k\u0000C\u0000o\u0000n\u0000n\u0000e\u0000c\u0000t\u0000\u0000\u00008\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000c\u0000a\u0000m\u0000p\u0000a\u0000i\u0000g\u0000n\u0000s\u0000\u0000\u0000,\u0000f\u0000e\u0000a\u0000t\u0000u\u0000r\u0000e\u0000.\u0000r\u0000e\u0000c\u0000o\u0000m\u0000m\u0000e\u0000n\u0000d\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\u0000\u00002\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000h\u0000o\u0000t\u0000j\u0000a\u0000r\u0000\u0000\u00004\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000d\u0000a\u0000t\u0000a\u0000d\u0000o\u0000g\u0000\u0000\u0000$\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000\u0000\u00006\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000r\u0000t\u0000b\u0000H\u0000o\u0000u\u0000s\u0000e\u0000\u0000\u00006\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000f\u0000a\u0000c\u0000e\u0000b\u0000o\u0000o\u0000k\u0000\u0000\u00002\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000c\u0000r\u0000i\u0000t\u0000e\u0000o\u0000\u0000\u00000\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000t\u0000e\u0000a\u0000d\u0000s\u0000\u0000\u00002\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000r\u0000e\u0000d\u0000d\u0000i\u0000t\u0000\u0000\u00006\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000p\u0000l\u0000a\u0000t\u0000f\u0000o\u0000r\u0000m\u0000.\u0000f\u0000e\u0000a\u0000t\u0000u\u0000r\u0000e\u0000s\u0000\u0000\u00002\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000b\u0000r\u0000a\u0000n\u0000c\u0000h\u0000\u0000\u00002\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000o\u0000n\u0000e\u0000t\u0000a\u0000g\u0000\u0000\u0000&\u0000r\u0000e\u0000a\u0000d\u0000i\u0000n\u0000g\u0000s\u0000t\u0000a\u0000t\u0000s\u0000.\u0000s\u0000o\u0000c\u0000i\u0000a\u0000l\u0000\u0000\u00002\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000a\u0000l\u0000k\u0000e\u0000m\u0000y\u0000\u0000\u00008\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000m\u0000a\u0000x\u0000y\u0000m\u0000i\u0000s\u0000e\u0000r\u0000\u0000\u00006\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000f\u0000i\u0000r\u0000e\u0000b\u0000a\u0000s\u0000e\u0000\u0000\u00006\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000i\u0000C\u0000h\u0000a\u0000n\u0000n\u0000e\u0000l\u0000\u0000\u00002\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000c\u0000i\u0000s\u0000i\u0000o\u0000n\u0000\u0000\u00008\u0000a\u0000n\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000s\u0000.\u0000t\u0000r\u0000a\u0000c\u0000k\u0000i\u0000n\u0000g\u0000.\u0000p\u0000i\u0000n\u0000t\u0000e\u0000r\u0000e\u0000s\u0000t",
+  "AnnotationsMigrated": "true",
+  "NotebookSyncTime": "2025-07-22T16:49:59.0Z",
+  "NotebookSyncToken": NaN
+}
+
+
+=== Table: volume_shortcovers (Total Rows: 9711) ===
+--- Row 1 ---
+{
+  "volumeId": "f1f71dc1-0140-47ea-ad26-1136a3cea7f8",
+  "shortcoverId": "f1f71dc1-0140-47ea-ad26-1136a3cea7f8!OPS!001-coverpage.html",
+  "VolumeIndex": 0
+}
+--- Row 2 ---
+{
+  "volumeId": "f1f71dc1-0140-47ea-ad26-1136a3cea7f8",
+  "shortcoverId": "f1f71dc1-0140-47ea-ad26-1136a3cea7f8!OPS!002-copyright.html",
+  "VolumeIndex": 1
+}
+
+
+=== Table: volume_tabs (Total Rows: 15) ===
+--- Row 1 ---
+{
+  "volumeId": "c6185409-3d69-4194-94c4-e6a0d8b85a66",
+  "tabId": "5257adf7-6c3b-4a53-b190-522d58ebad18"
+}
+--- Row 2 ---
+{
+  "volumeId": "66a1fd7c-da79-4bd2-a016-29b2844b753c",
+  "tabId": "5257adf7-6c3b-4a53-b190-522d58ebad18"
+}
+
+
+=== Table: Wishlist (Total Rows: 1) ===
+--- Row 1 ---
+{
+  "CrossRevisionId": "dd339277-a3e1-36dc-9309-d1f60d1384ec",
+  "DateModified": "2025-06-29T15:16:28Z",
+  "IsAdded": "true",
+  "IsSynced": "true"
+}
+
+
+=== Table: WordList (Total Rows: 3) ===
+--- Row 1 ---
+{
+  "Text": "ataraxia",
+  "VolumeId": "file:///mnt/onboard/Koe, Amanda Lee/Ministry of Moral Panic - Amanda Lee Koe.kepub.epub",
+  "DictSuffix": "-en",
+  "DateCreated": "2025-07-23T18:37:51Z"
+}
+--- Row 2 ---
+{
+  "Text": "intransigent",
+  "VolumeId": "file:///mnt/onboard/Koe, Amanda Lee/Ministry of Moral Panic - Amanda Lee Koe.kepub.epub",
+  "DictSuffix": "-en",
+  "DateCreated": "2025-07-23T18:38:00Z"
+}
+
+
