@@ -1,4 +1,4 @@
-# The Math of Market Making: Avellaneda-Stoikov Simulation
+# Kobo Reading Dashboard
 
 [![Launch Dashboard](https://img.shields.io/badge/App-Launch_Dashboard_📊-FF4B4B?style=flat&logo=rocket)](https://kobostatisticsdatareader.streamlit.app/)
 [![Read Guide on Website](https://img.shields.io/badge/Research-Full_Case_Study_📚-blue?style=flat&logo=read-the-docs&logoColor=white)](https://jordanchongja.github.io/projects/kobostatisticsdatareader)
